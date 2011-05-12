@@ -1,5 +1,9 @@
 Revision history for Git-Wrapper
 
+{{$NEXT}}
+
+        Fix 'clone' to work properly (John SJ Anderson)
+
 0.014   
 
         Added empty commit message handling (Robert Bohne)
